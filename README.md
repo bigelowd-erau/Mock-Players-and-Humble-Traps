@@ -1,6 +1,7 @@
 # Mock-Players-and-Humble-Traps
 ![Image of the test cases passing](Test_Cases.png)
-![Video Demonstation of the Test cases passing](https://github.com/bigelowd-erau/Mock-Players-and-Humble-Traps/blob/main/TestsVideo.gif / gif)
+#
+![Video Demonstation of the Test cases passing](https://github.com/bigelowd-erau/Mock-Players-and-Humble-Traps/blob/main/TestsVideo.gif)
 #
 [TrapTests.cs](Mock-Players-and-Humble-Traps/Assets/Tests/Editor/TrapTests.cs)
 ```markdown
